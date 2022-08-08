@@ -1,8 +1,8 @@
 # (Modified) vscode-flatland-icon-theme
 
-Updated the file icon from an empty svg to these lines (Taken from the [Quill vscode icons](https://github.com/cdonohue/vscode-quill-icons)), making it easier to see the directory indentation:
+Updated the file icon from an empty svg to a single line, making it it easier to see the directory indentation:
 
-![Screenshot 2022-08-05 at 19 25 29](https://user-images.githubusercontent.com/6549140/183138785-f7999335-017d-4b76-8ef3-6c885b37e416.png)
+![Screenshot 2022-08-08 at 12 37 29](https://user-images.githubusercontent.com/6549140/183409719-c5397127-5470-411d-a505-2f212bcbb3d2.png)
 
 
 Note: theme in the picture is [Tokyo Night - Storm variant](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
